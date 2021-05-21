@@ -18,4 +18,4 @@ The data consists of 60,000 training and 10,000 testing pictures and is being lo
 </ul>  
   
 # Results
-The digits are recognized by a rate of 100%!
+The digits are recognized by a rate of 100% with Callback, EarlyStopping, ModelCheckpoint!
